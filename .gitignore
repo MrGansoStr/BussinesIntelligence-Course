@@ -1,0 +1,13 @@
+*.csv
+.csv
+*.word
+*.wordx
+*.tex
+*.jpg
+*.png
+*.jpeg
+*.xls
+*.xlsx
+*.pdf
+vscode
+FilesLocal
